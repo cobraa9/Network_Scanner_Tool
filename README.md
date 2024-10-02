@@ -1,8 +1,5 @@
 # Network_Scanner_Tool
-A Python-based tool for scanning networks, detecting open ports, services, and vulnerabilities.
-
-Creating a network scanner in Python for cybersecurity purposes can be an educational and practical project. Below is an outline of the project along with some code examples to get you started.
-
+Creating a Python-based tool for scanning networks, detecting open ports, services, and vulnerabilities.
 Project Overview
 Objective:
 
@@ -13,7 +10,9 @@ Device Discovery: Identify all devices connected to a given network.
 Port Scanning: Scan open ports on discovered devices.
 Service Detection: Identify services running on the open ports.
 Reporting: Provide a summary report of the scanned network.
-Tools and Libraries
+
+Tools and Libraries:
+
 Python: The core programming language.
 Scapy: A powerful Python library for network manipulation and packet analysis.
 socket: A built-in Python module for network communications.
